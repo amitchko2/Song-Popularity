@@ -1,5 +1,6 @@
 # Song-Popularity
 Relationship between language and formality in popular songs. 
+
 Instructions: To access and utilize the script, open the "mitchka1-final_projectI.R" file, which contains the code for my project. To access the dataset, open the "data.csv" file.
 
 Operationalization 
